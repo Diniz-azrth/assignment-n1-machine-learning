@@ -1,6 +1,6 @@
 # 🤖 Sistema de Recomendação de Produtos — Olist E-Commerce
 
-> Avaliação N1 · Disciplina de Machine Learning · BSI / BCC · FMU 2026
+> Avaliação N1 · Disciplina de Machine Learning · BCC · FMU 2026
 
 ---
 

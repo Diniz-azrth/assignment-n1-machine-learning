@@ -6,7 +6,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto desenvolve um **motor de recomendação baseado em propensão de satisfação**, utilizando o dataset público de e-commerce brasileiro da Olist. O modelo prevê se um cliente dará uma avaliação positiva (nota ≥ 4) a um produto com base em 6 características do item — produtos com alta probabilidade de satisfação são então "recomendados" ao usuário.
+Este projeto desenvolve um **motor de recomendação baseado em propensão de satisfação**, utilizando o dataset público de e-commerce brasileiro da Olist. O modelo prevê se um cliente dará uma avaliação positiva (nota ≥ 4) a um produto com base em 6 características do item, produtos com alta probabilidade de satisfação são então "recomendados" ao usuário.
 
 A abordagem utiliza **Machine Learning Supervisionado** com o algoritmo Random Forest, otimizado via GridSearchCV e validado com técnicas de validação cruzada e curvas de aprendizado.
 
@@ -66,7 +66,7 @@ Tabelas utilizadas:
 3. Execute as células em ordem (Runtime → Run all)
 4. Nenhuma configuração adicional é necessária — o dataset é baixado automaticamente
 
-> 🔗 **Google Colab:** _[inserir link do Colab aqui]_
+> 🔗 **Google Colab:** _https://colab.research.google.com/drive/14pruRRDx6H9ksUCNamEtPuckuMpSmeJS?usp=sharing_
 
 ---
 
